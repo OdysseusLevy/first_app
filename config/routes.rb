@@ -1,4 +1,6 @@
 FirstApp::Application.routes.draw do
+  resources :game_objects
+
   resources :microposts
 
   resources :users

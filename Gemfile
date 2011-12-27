@@ -1,12 +1,13 @@
 source 'http://rubygems.org'
 
+#gem 'activerecord-postgresql-adapter'
 gem 'rails', '3.1.3'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 #gem 'pg'
- gem 'sqlite3'
+gem 'sqlite3'
 
 
 # Gems used only for assets and not required
