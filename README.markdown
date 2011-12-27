@@ -1,3 +1,5 @@
+# My first test app for ruby on rails
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
